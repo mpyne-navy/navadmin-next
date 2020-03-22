@@ -10,4 +10,5 @@ Still missing:
 
 # Example
 
-Only example right now is a reformatted [NAVADMIN 059/19](NAVADMIN/2019/059.md)
+1. A reformatted [NAVADMIN 059/19](NAVADMIN/2019/059.md)
+2. Perhaps more useful, a reformatted [NAVADMIN 080/20](NAVADMIN/2020/080.md)
